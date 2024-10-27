@@ -1,6 +1,8 @@
 OpenVPN 3 Linux client
 ======================
 
+Copied from OpenVPN release v1-beta,LEARNING Only,not for any COMMERCIAL!!!!!!
+
 This is the next generation OpenVPN client for Linux.  This project is very
 different from the more classic OpenVPN 2.x versions.  First of all, this is
 currently only a pure client-only implementation.
